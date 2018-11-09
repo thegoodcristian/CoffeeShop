@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Acme|Inconsolata|Kumar+One+Outline');
+h1 {
+	color: blue;
+	font-family: 'Kumar One Outline';
+}
+
+div {
+	text-align: right;
+	position: fixed;
+	font-family: 'Acme';
+}
+
+#link{
+	font-family: 'Acme';
+	font-size: 2em;
+}
